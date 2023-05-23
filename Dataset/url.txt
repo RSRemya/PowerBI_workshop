@@ -1,0 +1,3 @@
+web url - https://loksabha.nic.in/members/PartyWiseStatisticalList.aspx
+
+OData feed - https://services.odata.org/v2/northwind/northwind.svc/
